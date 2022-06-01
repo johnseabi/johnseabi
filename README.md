@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnseabi
 - 👀 I’m interested in C# and everything AI
-- 🌱 I’m currently learning MERN stack and Tensorflow
+- 🌱 Stacks:ASP.NET Core, Flask Python PostgreSQL and MERN
 - 💞️ I’m looking to collaborate on any application that is exciting
 - 📫 Reach me on seabi.tkoregur@gmail.com / john@sfbholding.co.za
 
